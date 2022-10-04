@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  I am a <strong>Computer Science Student at Uninassau</strong>. Currently, trying to learn new languages, feel free to talk about anything with me. Looking forward to develop my skills and network.
+  I am a <strong>Computer Science Student at Cesar School</strong>. Currently, trying to learn new languages, feel free to talk about anything with me. Looking forward to develop my skills and network.
 </div>
 
 <div align="center">
